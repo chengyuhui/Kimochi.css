@@ -1,6 +1,6 @@
 {
   "name": "Kimochi.css",
   "version": "1.0.0",
-  "main": "./css/Kimochi.css",
+  "main": "./css/kimochi.css",
   "dependencies": {}
 }
